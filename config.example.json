@@ -1,0 +1,11 @@
+{
+  "notion_api_key": "your_notion_integration_token_here",
+  "notion_root_page_id": "your_notion_root_page_id_here",
+  "openwebui_base_url": "http://localhost:3000",
+  "openwebui_api_key": "your_openwebui_api_key_here",
+  "knowledge_base_id": "your_knowledge_base_id_here",
+  "blacklist_title_prefixes": ["[Draft]"],
+  "blacklist_title_suffixes": [],
+  "blacklist_page_ids": [],
+  "excluded_block_types": []
+}
